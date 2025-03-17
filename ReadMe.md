@@ -38,6 +38,6 @@ npm run dev
 The application should now be running on [http://localhost:3000](http://localhost:3000).
 
 
-Your Name - [wallacelt25](https://github.com/wallacelt25)
+My Username - [wallacelt25](https://github.com/wallacelt25)
 
 Project Link: [https://github.com/wallacelt25/ToDoListForum](https://github.com/wallacelt25/ToDoListForum)
