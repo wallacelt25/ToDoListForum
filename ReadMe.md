@@ -29,7 +29,7 @@ npm install
 yarn install
 ```
 
-### 5. Start the development server
+### 3. Start the development server
 
 ```bash
 npm run dev
